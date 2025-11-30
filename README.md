@@ -34,7 +34,7 @@ Procedure
 
 Program:
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+/* Program to design a half subtractor circuit and verify its truth table in quartus using Verilog programming.
 
 Developed by:MIRUDHULA.N RegisterNumber:25016637*/
 
@@ -42,4 +42,4 @@ RTL Schematic
 
 Output/TIMING Waveform
 
-Result:
+Result:Thus, the Half subtractor circuits are designed and the truth tables is verified using Quartus software.
